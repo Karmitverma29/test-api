@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "age": 28,
+        "city": "New York"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "age": 35,
+        "city": "Los Angeles"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "age": 42,
+        "city": "Chicago"
+      }
+    ],
+    
+        "hotels": [
+          {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "age": 28,
+            "city": "New York"
+          },
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "age": 35,
+            "city": "Los Angeles"
+          }
+         
+        ]
+      
+      
+  }
+  
